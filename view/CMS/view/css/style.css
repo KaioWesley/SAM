@@ -1,0 +1,121 @@
+body, a{
+    margin: 0px;
+    padding: 0px;
+}
+
+.principal{
+    width: 1000px;
+    height: 500px;
+    background-color: forestgreen;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    width: 1000px;
+    height: 120px;
+    padding-top: 30px;
+    background-color: black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin-left: 50px;
+    float: left;
+}
+
+.titulo{
+    font-family: bodoni;
+    font-size: 30px;
+    color: aqua;
+}
+
+.centro{
+    width: 390px;
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.user{
+    width: 200px;
+    height: 20px;
+    font-family: bodoni;
+    color: aquamarine;
+    font-size: 25px;
+    margin-left: auto;
+}
+
+.navegar{
+    width: 500px;
+    height: 50px;
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.atual{
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    float: left;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.proximo{
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    float: left;
+    text-align: center;
+}
+
+
+a{
+    font-family: bodoni;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+.conteudo{
+    width: 1000px;
+    min-height: 300px;
+    height: auto;
+    background-color: aliceblue;
+    padding-top: 100px;
+}
+
+.link_cadastro{
+    width: 200px;
+    height: 150px;
+    background-color: blanchedalmond;
+    margin-left: 43px;
+    text-align: center;
+    float: left;
+}
+
+.imagem{
+    width: 200px;
+    height: 120px;
+    background-color: violet;
+}
+
+.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

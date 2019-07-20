@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    height: 40px;
+    background-image: linear-gradient(black, #474745);
+
+}
+
+a{
+    width: 100px;
+    border-right: solid 2px white;
+    padding-right: 5px;
+    margin-left: 24px;
+    font-size: 25px;
+}
+
+a:hover{
+    background-color: #730000;
+    color: white;
+}
+
+nav{
+    width: 415px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    color: rgb(180, 180, 180);
+}
+
+.principal{
+    width: 100%;
+    height: auto;
+    min-height: 1000px;
+    background-color: coral;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.apresentacao{
+    width: 1200px;
+    height: 500px;
+    background-color: firebrick;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.conteudo{
+    width: 1200px;
+    height: 500px;
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: chartreuse;
+}
